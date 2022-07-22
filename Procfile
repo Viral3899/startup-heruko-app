@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run startup_app.py
+web: sh setup.sh && streamlit run PK_R_.py
